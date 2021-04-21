@@ -15,7 +15,6 @@ elif driving == '否':
 		print('一時蹭車一時爽 一直蹭車一直爽')
 	else:
 		print('時間到再去考')
-else:
-	print('不要鬧了ˋ口ˊ')
+
 	
 	
